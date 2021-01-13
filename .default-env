@@ -1,0 +1,2 @@
+TOKEN={bot token}
+INTERVAL={interval between reminder checks in minutes}
